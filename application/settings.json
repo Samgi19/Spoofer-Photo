@@ -1,0 +1,22 @@
+{
+    "input_folder": "",
+    "output_folder": "",
+    "flip_images": false,
+    "converter_mode": false,
+    "metadata_modify": false,
+    "metadata_file": "",
+    "custom_metadata": "Model=CameraX, Make=Canon, ShutterSpeed=1/250, ISO=400, Aperture=2.8, Timestamp=2025:02:12 14:30:00, Geo=Latitude:40.7128, Longitude:-74.0060, LatRef=N, LonRef=W",
+    "timestamp": "2025-02-13 15:02:34",
+    "speed_option": "Low (Fastest)",
+    "rounds": 1,
+    "image_to_png": false,
+    "image_to_jpg": false,
+    "video_to_mp4": false,
+    "video_to_gif": false,
+    "ig_metadata": false,
+    "tt_metadata": false,
+    "apple_metadata": false,
+    "licenseKey": "x321K111kMbrJNTX",
+    "fingerprint": "",
+    "persistentFingerprint": "96a1ba5fe4ef06a0373f5207182a12939fef211c4576c781694a8005ebd3ef73"
+}
